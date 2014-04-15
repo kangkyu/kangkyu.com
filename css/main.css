@@ -1,0 +1,58 @@
+body {
+  /*background-color: lightblue;*/
+  color: #000;
+  font-family: 'ubuntu', sans-serif;
+}
+h1 {
+  color: #5fcf80;
+  font-size: 1.75em;
+  font-weight: normal;
+}
+h2 {  
+  color: green;
+}
+a,
+a:visited {
+  color: #be2126;
+  
+  text-decoration: none;
+}
+nav a, nav a:visited {
+  font-weight:; 
+  padding:;
+}
+nav a.selected,
+nav a:hover {
+  color: #7d1619;
+}
+
+#wrapper {
+  
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+  /*background-color: orange;*/
+}
+#logo {
+  text-align: center;
+  margin:;
+  padding:;
+}
+nav {
+  background-color: orange;
+}
+nav ul {
+  list-style: none;
+}
+nav li {
+  font-weight: 800;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
