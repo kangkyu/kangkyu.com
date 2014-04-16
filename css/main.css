@@ -73,13 +73,15 @@ footer {
   height: 20px;
   margin: 0 5px;
 }
+#secondary {
+  margin-top: 30px;
+}
 .contact-info {
   list-style: none;
   padding: 0;
   margin: 0;
   font-size: 1.00em;
 }
-
 .contact-info a {
   display: block;
   min-height: 20px;
@@ -88,7 +90,6 @@ footer {
   padding: 0 0 0 30px;
   margin: 0 0 10px;
 }
-
 .contact-info li.phone a {
   background-image: url('../img/phone.png');
 }
