@@ -21,7 +21,7 @@ h1 {
   /* font-weight: normal;
   line-height: 0.8em; */
 }
-h2 {  
+h2 {
   color: #009f6b;
   font-size: 1.50em;
   /*font-weight: normal;*/
@@ -39,14 +39,14 @@ a:visited {
   text-decoration: none;
 }
 nav a, nav a:visited {
-  color: #fff; 
+  color: #fff;
   font-weight:;
   padding:;
 }
 nav a.selected {
   color: #be2126;
 }
-nav a:hover { 
+nav a:hover {
   color: #7d1619;
 }
 nav {
@@ -114,7 +114,7 @@ footer {
     /* font-weight: normal;
     line-height: 0.8em; */
   }
-  h2 {  
+  h2 {
     font-size: 1.75em;
     /*font-weight: normal;*/
   }
@@ -129,7 +129,7 @@ footer {
     /* font-weight: normal;
     line-height: 0.8em; */
   }
-  h2 {  
+  h2 {
     font-size: 2.00em;
     /*font-weight: normal;*/
   }
@@ -138,7 +138,7 @@ footer {
   }
 }
 
-@media screen and (min-width: 480px) {  
+@media screen and (min-width: 480px) {
   #primary {
     width: 50%;
     float: left;
