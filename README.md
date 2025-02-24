@@ -10,3 +10,9 @@
 8. Make a Cloudfront distribution, use the bucket website endpoint from 2 as "Origin domain"
 9. And set "Alternate domain name" as `"www.kangkyu.com"` and select "Custom SSL certificate" from 8
 10. Go back to domain DNS setting, add as a CNAME record with "www" and the value from Cloudfront ("Distribution domain name")
+
+### Update
+
+1. Cloudfront home
+2. Distributions > Select the correct distribution
+3. Invalidations > Click "Copy to New" in the previous invalidation (if no changes on filnames)
